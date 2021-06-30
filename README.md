@@ -7,11 +7,11 @@
 
 - 🤝 I’m looking for help with [Recognition Traffic Sign](https://kaggle.com/danghoangminh/repvgg-making-vgg-style-convnets-great-again)
 
-- 👨‍💻 All of my projects are available at [https://github.com/danghoangminh](https://github.com/danghoangminh)
+- 👨‍💻 All of my projects are available at [github.com/danghoangminh](https://github.com/danghoangminh)
 
 - 📫 How to reach me **danghoangminh2411@gmail.com**
 
-- 📄 Know about my experiences [https://danghoangminh.github.io/digital-cv/](https://danghoangminh.github.io/digital-cv/)
+- 📄 Know about my experiences [danghoangminh.github.io](https://danghoangminh.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
