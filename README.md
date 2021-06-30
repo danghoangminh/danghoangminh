@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dang Hoang Minh</h1>
 <h3 align="center">A computer scientist from Vietnam</h3>
 
-- 🔭 I’m currently working on [Recognition Traffic Sign](https://kaggle.com/danghoangminh/repvgg-making-vgg-style-convnets-great-again)
+- 🔭 I’m currently working on [Traffic Sign Recognition](https://github.com/danghoangminh/TrafficSignRecognition)
 
 - 🌱 I’m currently learning **AWS, DevOps and IT Support**
 
-- 🤝 I’m looking for help with [Recognition Traffic Sign](https://kaggle.com/danghoangminh/repvgg-making-vgg-style-convnets-great-again)
+- 🤝 I’m looking for help with [Traffic Sign Recognition](https://github.com/danghoangminh/TrafficSignRecognition)
 
 - 👨‍💻 All of my projects are available at [github.com/danghoangminh](https://github.com/danghoangminh)
 
