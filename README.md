@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dang Hoang Minh</h1>
 <h3 align="center">A computer scientist from Vietnam</h3>
 
-- 🔭 I’m currently working on [three.js](https://github.com/danghoangminh/three.js)
-
+<!-- - 🔭 I’m currently working on [three.js](https://github.com/danghoangminh/three.js)
+ -->
 - 🌱 I’m currently learning **Flutter**
 
 - 🤝 I’m looking for help with [Traffic Sign Recognition](https://github.com/danghoangminh/TrafficSignRecognition)
