@@ -2,7 +2,7 @@
 <h3 align="center">A computer scientist from Vietnam</h3>
 
 # 💫About Me :
-- 🌱 I’m currently working as **System Administrator**
+- 🌱 I’m currently working as **DevOps Engineer**
 
 - 👨‍💻 All of my projects are available at [github.com/danghoangminh](https://github.com/danghoangminh)
 
